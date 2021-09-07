@@ -1,6 +1,6 @@
-# dedsec-2fa-bypass
+# TOP4 SOCIA MEDIA 2fa-bypass
 <p align="center">
-<img alt="DEDSEC SNIFFER TOOL" src="https://github.com/0xbitx/dedsec-2fa-bypass/blob/master/project.png" style="max-width:100%;max-height:100%;" />
+<img alt="DEDSEC SNIFFER TOOL" src="https://github.com/0xbitx/Top4-Social-Media-/blob/master/project.png" style="max-width:100%;max-height:100%;" />
 </p>
 
 # Legal disclaimer
