@@ -11,14 +11,14 @@ Usage of DEDSEC for attacking targets without prior mutual consent is illegal. I
 
 
 ### INSTALLATION [ TERMUX APP on ANDROID ]
-* git clone https://github.com/0xbitx/dedsec-2fa-bypass.git
-* cd dedsec-2FA/
+* git clone https://github.com/0xbitx/Top4-Social-Media-.git
+* cd Top4-Social-Media/
 * ./Android-Setup.sh
 * ./project.sh
 
 ### INSTALLATION [ KALI ]
-* git clone https://github.com/0xbitx/dedsec-2fa-bypass.git
-* cd dedsec-2FA/
+* git clone https://github.com/0xbitx/Top4-Social-Media-.git
+* cd Top4-Social-Media/
 * ./Linux-Setup.sh
 * ./project.sh
 
