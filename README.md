@@ -28,8 +28,6 @@ NGROK (https://ngrok.com/)
 ### TESTED ON FOLLOWING:
 * Kali Linux 
 * Parrot OS 
-* Ubuntu 
-* Arch Linux
 * Termux App
 ### PREREQUISITES
 * php
