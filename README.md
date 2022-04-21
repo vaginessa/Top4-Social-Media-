@@ -9,6 +9,8 @@
 Usage of DEDSEC for attacking targets without prior mutual consent is illegal. It's the end user's responsibility to obey all applicable local, state and federal laws. Developers assume no liability and are not responsible for any misuse or damage caused by this program
 </p>
 
+### YOUTUBE VIDEO
+ https://youtu.be/va80_EIEypI 
 
 ### INSTALLATION [ TERMUX APP on ANDROID ]
 * git clone https://github.com/0xbitx/Top4-Social-Media-.git
